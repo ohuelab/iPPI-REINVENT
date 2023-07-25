@@ -8,4 +8,4 @@ PPI-inhibitor candidate library generation with REINVENT and QEPPI
 https://github.com/ohuelab/iPPI-REINVENT/assets/2476893/854e5048-658f-4ca7-aea4-a4102d473f19
 
 ---
-Ohue M, Kojima Y, Kosugi T. [Generating potential protein-protein interaction inhibitor molecules based on physicochemical properties](https://doi.org/10.20944/preprints202305.0704.v1). Preprints.org preprint, 2023050704, 2023. doi:10.20944/preprints202305.0704.v1
+Ohue M, Kojima Y, Kosugi T. [Generating potential protein-protein interaction inhibitor molecules based on physicochemical properties](https://doi.org/10.20944/preprints202305.0704.v1). __Molecules__, 2023. (in press)
